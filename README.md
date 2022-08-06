@@ -16,20 +16,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<h1 align="center">Hey I'm Zyad</h1>
+<h1 align="center">Hey, I'm Zyad</h1>
+<h1 align="center">zyadalkurdi.com</h1>
 <h3 align="center">I'm a Frontend Software Engineer in pursuit of designing strong and responsive user interfaces and great user experience.</h3>
 
 <p align="left"> <a href="https://twitter.com/zdaisygarden" target="blank"><img src="https://img.shields.io/twitter/follow/zdaisygarden?logo=twitter&style=for-the-badge" alt="zdaisygarden" /></a> </p>
-
-- 🔭 I’m currently working on [dayZtrivia](https://github.com/dayZgarden/dayZtrivia)
-
-- 🌱 I’m currently learning **Figma, Spline, Three.js, React-Context, React-Query**
-
-- 👨‍💻 All of my projects are available at [zyadalkurdi.com](zyadalkurdi.com)
-
-- 💬 Ask me about **React.js, JavaScript, Firebase, HTML5, CSS3, TailwindCSS**
-
-- 📫 How to reach me **zyad.alkurdi22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
