@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <h1 align="center">Hey, I'm Zyad</h1>
-<h1 align="center">zyadalkurdi.com</h1>
+<h3 align="center">www.zyadalkurdi.com</h3>
 <h3 align="center">I'm a Frontend Software Engineer in pursuit of designing strong and responsive user interfaces and great user experience.</h3>
 
 <p align="left"> <a href="https://twitter.com/zdaisygarden" target="blank"><img src="https://img.shields.io/twitter/follow/zdaisygarden?logo=twitter&style=for-the-badge" alt="zdaisygarden" /></a> </p>
