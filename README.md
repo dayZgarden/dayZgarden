@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I'm Zyad</h1>
+<h1 align="center">Zyad Alkurdi</h1>
+<h3 align="center">Frontend / UI|UX / Backend</h3>
 <h3 align="center">www.zyadalkurdi.com</h3>
 
 <h3 align="left">Connect with me:</h3>
