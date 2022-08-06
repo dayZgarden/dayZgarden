@@ -1,3 +1,6 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)
+[![Github](https://img.shields.io/github/followers/dayZgarden?label=Follow&style=social)](https://github.com/dayZgarden)
+
 <h1 align="center">Zyad Alkurdi</h1>
 <h3 align="center">Frontend / UI | UX / Backend</h3>
 <h3 align="center">www.zyadalkurdi.com</h3>
