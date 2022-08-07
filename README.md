@@ -6,6 +6,8 @@
   
 </div>
 
+<hr/>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)
 [![Github](https://img.shields.io/github/followers/dayZgarden?label=Follow&style=social)](https://github.com/dayZgarden)
 
