@@ -4,7 +4,7 @@
   
 </div>
 
-<div style="display: flex;" >
+<div>
   
  <p>
   <a href="mailto:zyadalkurdi22@gmail.com">
