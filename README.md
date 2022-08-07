@@ -10,6 +10,7 @@
   [![website][website]][website-url]
   [![gmail][gmail]][gmail-url]
   [![twitter][twitter]][twitter-url]
+  [![spotify][spotify]][spotify-url]
   [![leetcode][leetcode]][leetcode-url]
   [![stackoverflow][stackoverflow]][stackoverflow-url]
       
@@ -134,13 +135,5 @@
 [python-url]: https://www.python.org/
 [typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
+[spotify]: 	https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
+[spotify-url]: https://open.spotify.com/user/nnumberr?si=GHcf12X9RnSPrJC-vCZVXg
