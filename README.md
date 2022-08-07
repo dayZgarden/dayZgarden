@@ -5,21 +5,11 @@
 </div>
 
 <div>
-  
- <p>
-  <a href="mailto:zyadalkurdi22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="website" />
-  </a>
       
   [![linkedin][linkedin]][linkedin-url]
+  [![gmail][gmail]][gmail-url]
   [![twitter][twitter]][twitter-url]
       
- </p>
-  
-
-    
-    
-  
 </div>
 
 <hr/>
@@ -55,7 +45,7 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: https://www.zyadalkurdi22@gmail.com
+[gmail-url]: mailto:zyadalkurdi22@gmail.com
 [linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/zyadalkurdi
 [twitter]: 	https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
