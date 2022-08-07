@@ -1,10 +1,10 @@
-<div style="display: flex;" >
-  
-  <div align="right">
+<div align="right">
     
   ![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)
   
-  </div>
+</div>
+
+<div style="display: flex;" >
   
   <a href="mailto:zyadalkurdi22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="website" />
