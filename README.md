@@ -15,6 +15,8 @@
   </a>
 </h1>
 
+<hr/>
+
 <h3 align="center">Frontend Developer</h3>
 
 <h3 align="left">Languages ⚡ Technologies</h3>
