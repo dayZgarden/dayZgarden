@@ -2,6 +2,7 @@
 [![Github](https://img.shields.io/github/followers/dayZgarden?label=Follow&style=social)](https://github.com/dayZgarden)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden">
+
 <h3 align="center">Frontend / UI | UX / Backend</h3>
 
 <h3 align="left">Languages ⚡ Technologies</h3>
