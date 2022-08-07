@@ -6,7 +6,7 @@
   
   </div>
   
-  [![gmail][gmail]][gmail-url]
+  <a href="mailto:zyadalkurdi22@gmail.com">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
   [![linkedin][linkedin]][linkedin-url]
   [![twitter][twitter]][twitter-url]
   
@@ -25,10 +25,11 @@
 <h3 align="center">Frontend Developer</h3>
 
 
-<hr/>
+
 <h3 align="left">Languages ⚡ Technologies</h3>
 
 
+<hr/>
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&show_icons=true&theme=tokyonight)
