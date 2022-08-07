@@ -33,9 +33,9 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: zyadalkurdi22@gmail.com
+[gmail-url]: https://www.zyadalkurdi22@gmail.com
 [linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: www.linkedin.com/in/zyadalkurdi
+[linkedin-url]: https://www.linkedin.com/in/zyadalkurdi
 [twitter]: 	https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [twitter-url]: https://twitter.com/zdaisygarden
 [npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
