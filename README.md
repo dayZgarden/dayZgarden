@@ -4,7 +4,7 @@
   
 </div>
 
-<div>
+<div align="center">
       
   [![linkedin][linkedin]][linkedin-url]
   [![website][website]][website-url]
