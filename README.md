@@ -51,7 +51,7 @@
 [linkedin-url]: https://www.linkedin.com/in/zyadalkurdi
 [twitter]: 	https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [twitter-url]: https://twitter.com/zdaisygarden
-[website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white
+[website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Safari&logoColor=white
 [website-url]: https://www.zyadalkurdi.com/
 [npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
 [npm-url]: https://www.npmjs.com/
