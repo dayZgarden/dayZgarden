@@ -1,4 +1,4 @@
-<div style="display:flex" >
+<div style="display: flex;" >
   
   <div align="right">
     
