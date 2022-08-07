@@ -6,9 +6,11 @@
 
 <div style="display: flex;" >
   
+  <p>
   <a href="mailto:zyadalkurdi22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="website" />
   </a>
+  </p>
   
   [![linkedin][linkedin]][linkedin-url]
   [![twitter][twitter]][twitter-url]
