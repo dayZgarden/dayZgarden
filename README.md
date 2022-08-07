@@ -7,6 +7,7 @@
 <div>
       
   [![linkedin][linkedin]][linkedin-url]
+  [![website][website]][website-url]
   [![gmail][gmail]][gmail-url]
   [![twitter][twitter]][twitter-url]
       
@@ -50,8 +51,8 @@
 [linkedin-url]: https://www.linkedin.com/in/zyadalkurdi
 [twitter]: 	https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [twitter-url]: https://twitter.com/zdaisygarden
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
+[website]: https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=website&logoColor=white
+[website-url]: https://www.zyadalkurdi.com/
 [npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
 [npm-url]: https://www.npmjs.com/
 [npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
