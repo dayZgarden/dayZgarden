@@ -1,13 +1,12 @@
-<div> 
+<div>
+  
+  <div align="right">![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)</div>
   
   [![gmail][gmail]][gmail-url]
   [![linkedin][linkedin]][linkedin-url]
   [![twitter][twitter]][twitter-url]
   
 </div>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)
-[![Github](https://img.shields.io/github/followers/dayZgarden?label=Follow&style=social)](https://github.com/dayZgarden)
 
 <hr/>
 
