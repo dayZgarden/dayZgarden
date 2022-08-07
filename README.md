@@ -27,9 +27,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-<h3 align="left">Languages ⚡ Technologies</h3>
-
-<div>
+<div align="center">
     
 [![figma][figma]][figma-url]
 [![spline][spline]][spline-url]
