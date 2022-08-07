@@ -1,6 +1,4 @@
 <div> 
-  [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.zyadalkurdi.com/)
-  
   [![gmail][gmail]][gmail-url]
   [![linkedin][linkedin]][linkedin-url]
   [![twitter][twitter]][twitter-url]
