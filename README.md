@@ -1,6 +1,10 @@
 <div>
   
-  <div align="right">![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)</div>
+  <div align="right">
+    
+  ![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)
+  
+  </div>
   
   [![gmail][gmail]][gmail-url]
   [![linkedin][linkedin]][linkedin-url]
