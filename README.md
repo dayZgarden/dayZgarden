@@ -7,10 +7,9 @@
   </div>
   
   <a href="mailto:zyadalkurdi22@gmail.com">
-    
-    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="website" />
   </a>
+  
   [![linkedin][linkedin]][linkedin-url]
   [![twitter][twitter]][twitter-url]
   
