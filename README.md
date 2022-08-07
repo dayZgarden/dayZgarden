@@ -10,6 +10,8 @@
   [![website][website]][website-url]
   [![gmail][gmail]][gmail-url]
   [![twitter][twitter]][twitter-url]
+  [![leetcode][leetcode]][leetcode-url]
+  [![stackoverflow][stackoverflow]][stackoverflow-url]
       
 </div>
 
@@ -53,10 +55,10 @@
 [twitter-url]: https://twitter.com/zdaisygarden
 [website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Safari&logoColor=white
 [website-url]: https://www.zyadalkurdi.com/
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
-[npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
-[npm-url]: https://www.npmjs.com/
+[leetcode]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
+[leetcode-url]: https://leetcode.com/dayZgarden/
+[stackoverflow]: https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+[stackoverflow-url]: https://stackoverflow.com/users/19708068/garden
 [npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
 [npm-url]: https://www.npmjs.com/
 [npm]: 	https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white
