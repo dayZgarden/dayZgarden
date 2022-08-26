@@ -25,7 +25,7 @@
 </div>
 
 <hr>
-gr
+grr
 
 <h3 align="center">Frontend Developer</h3>
 
