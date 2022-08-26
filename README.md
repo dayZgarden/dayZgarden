@@ -1,6 +1,7 @@
 <div align="right">
     
   ![](https://visitor-badge.laobi.icu/badge?page_id=dayZgarden.dayZgarden)
+  WE MAJOR 
   
 </div>
 
@@ -25,7 +26,7 @@
 </div>
 
 <hr>
-grrty
+
 
 <h3 align="center">Frontend Developer</h3>
 
