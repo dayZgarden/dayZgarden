@@ -15,7 +15,7 @@
   [![stackoverflow][stackoverflow]][stackoverflow-url]
       
 </div>
-aaaaaa
+
 <hr/>
 
 <div align="center">
