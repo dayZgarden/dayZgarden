@@ -27,7 +27,7 @@
 <hr>
 
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <div align="center">
     
