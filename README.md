@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Zyad+Alkurdi...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Appreciate your moment;it will pass!&center=true&size=30">
   </a>
 </div>
 
