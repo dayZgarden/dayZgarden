@@ -15,7 +15,6 @@
   [![stackoverflow][stackoverflow]][stackoverflow-url]
       
 </div>
-
 <hr/>
 
 
