@@ -40,13 +40,9 @@
 
 <hr/>
 <div align="center">
-
+I will continue to build projects but I might try some outside of the web dev space.
   
 </div>
-
-<hr/>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=dayZgarden&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
