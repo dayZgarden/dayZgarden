@@ -9,10 +9,8 @@
   [![linkedin][linkedin]][linkedin-url]
   [![website][website]][website-url]
   [![gmail][gmail]][gmail-url]
-  [![twitter][twitter]][twitter-url]
   [![spotify][spotify]][spotify-url]
   [![leetcode][leetcode]][leetcode-url]
-  [![stackoverflow][stackoverflow]][stackoverflow-url]
       
 </div>
 
