@@ -14,7 +14,7 @@
       
 </div>
 
-<hr/>
+<hr/>a
 
 
 <h3 align="center">Software Developer</h3>
