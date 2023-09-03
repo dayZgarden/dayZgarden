@@ -110,4 +110,4 @@ I will continue to build projects but I might try some outside of the web dev sp
 [typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
 [spotify]: 	https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
-[spotify-url]: https://open.spotify.com/user/nnumberr?si=GHcf12X9RnSPrJC-vCZVXg
+[spotify-url]: https://open.spotify.com/playlist/3C68CAEk44b3Gm4h4ZMozr?si=00a628fe16f84f9b
