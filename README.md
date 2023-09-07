@@ -40,7 +40,7 @@
 
 <hr/>
 <div align="center">
-I will continue to build projects but I might try some outside of the web dev space.
+I will continue to build projects of anything I find interesting.
   
 </div>
 
