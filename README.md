@@ -16,9 +16,6 @@
 
 <hr/>
 
-
-<h3 align="center">Software Developer | Engineer</h3>
-
 <div align="center">
     
 [![react][react]][react-url]
