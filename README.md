@@ -24,10 +24,7 @@
 [![javascript][javascript]][javascript-url]
 [![typescript][typescript]][typescript-url]
 [![node][node]][node-url]
-[![tailwind][tailwind]][tailwind-url]
 [![three][three]][three-url]
-[![firebase][firebase]][firebase-url]
-[![vercel][vercel]][vercel-url]
 [![cpp][cpp]][cpp-url]
 [![python][python]][python-url]
 [![graphql][graphql]][graphql-url]
@@ -37,9 +34,11 @@
 
 <hr/>
 <div align="center">
-I will continue to build projects of anything I find interesting.
+I'm Z and most of my experience is with web development. I'm going to start building projects in other areas of software development to broaden my breadth of knowledge. I like to learn new things.
   
 </div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
