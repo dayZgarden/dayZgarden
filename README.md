@@ -37,9 +37,13 @@
 I'm Z and most of my experience is with web development. I'm going to start building projects in other areas of software development to broaden my breadth of knowledge. I like to learn new things.
 </div>
 
+<hr/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=synthwave)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dayZgarden&theme=synthwave)](https://git.io/streak-stats)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
