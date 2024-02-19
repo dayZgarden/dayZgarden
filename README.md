@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
       
   [![linkedin][linkedin]][linkedin-url]
   [![website][website]][website-url]
@@ -16,7 +16,7 @@
 
 <hr/>
 
-<div align="center">
+<div align="left">
     
 [![react][react]][react-url]
 [![html][html]][html-url]
@@ -33,7 +33,7 @@
 </div>
 
 <hr/>
-<div align="center">
+<div align="left">
 I'm Z and most of my experience is with web development. I'm going to start building projects in other areas of software development to broaden my breadth of knowledge. I like to learn new things.
 </div>
 
