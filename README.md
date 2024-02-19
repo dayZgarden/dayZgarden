@@ -37,9 +37,9 @@
 I'm Z and most of my experience is with web development. I'm going to start building projects in other areas of software development to broaden my breadth of knowledge. I like to learn new things.
 </div>
 
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true)
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=synthwave)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
