@@ -38,11 +38,11 @@ I'm Z and most of my experience is with web development. I'm going to start buil
 </div>
 
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true)
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true)
 </div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=synthwave)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=synthwave)
 </div>
 
 
