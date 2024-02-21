@@ -42,7 +42,7 @@ I'm Z and most of my experience is with web development. I'm going to start buil
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=synthwave)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dayZgarden&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=dayZgarden&theme=synthwave)](https://git.io/streak-stats)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
