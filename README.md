@@ -34,7 +34,7 @@
 
 <hr/>
 <div align="left">
-I'm Z and most of my experience is with web development. I'm going to start building projects in other areas of software development to broaden my breadth of knowledge. I like to learn new things.
+I'm Z and most of my experience is with web development. I'm going to start building projects in other areas of software development to broaden my breadth of knowledge. I like to learn new things and apply them.
 </div>
 
 <hr/>
