@@ -34,7 +34,7 @@
 
 <hr/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&theme=synthwave&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=synthwave)
 
