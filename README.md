@@ -6,11 +6,6 @@
 
 <div align="left">
       
-  [![linkedin][linkedin]][linkedin-url]
-  [![website][website]][website-url]
-  [![gmail][gmail]][gmail-url]
-  [![spotify][spotify]][spotify-url]
-  [![leetcode][leetcode]][leetcode-url]
       
 </div>
 
@@ -34,7 +29,7 @@
 
 <hr/>
 <div align="left">
-I'm Z and most of my experience is with web development. I'm going to start building projects in other areas of software development to broaden my breadth of knowledge. I like to learn new things and apply them.
+    On the move
 </div>
 
 <hr/>
@@ -48,12 +43,6 @@ I'm Z and most of my experience is with web development. I'm going to start buil
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:zyadalkurdi22@gmail.com
-[linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/zyadalkurdi
-[twitter]: 	https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[twitter-url]: https://twitter.com/zdaisygarden
 [website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Safari&logoColor=white
 [website-url]: https://www.zyadalkurdi.com/
 [leetcode]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
